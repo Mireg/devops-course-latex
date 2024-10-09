@@ -22,3 +22,4 @@ jobs:
                 check_dot_files: false
                 strict: true
                 incremental_files_only: false
+                autoCorrect: true
